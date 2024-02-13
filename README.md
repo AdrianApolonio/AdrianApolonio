@@ -2,7 +2,7 @@
 
 I'm currently writing spaghetti code 🍝...\
 \
-I'm also a Computer Science major at the University of Washington Seattle (expected June 2024)\
+I'm also a Computer Science major at the University of Washington Seattle (expected June 2024)
 
 
 ### Cool Stuff look at this 👀
