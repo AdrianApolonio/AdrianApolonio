@@ -3,13 +3,13 @@
 I'm currently writing spaghetti code 🍝...\
 \
 I'm also a Computer Science major at the University of Washington Seattle (expected June 2024)\
-\
+
 
 ### Cool Stuff look at this 👀
 
 [Website](https://www.google.com/)\
 [Linkedin](https://www.linkedin.com/in/adrian-apolonio-436a8620a/)\
-Email: adrianapolonio17@gmail.com\
+Email: adrianapolonio17@gmail.com
 
 <!--
 **AdrianApolonio/AdrianApolonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
