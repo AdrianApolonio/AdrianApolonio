@@ -7,7 +7,7 @@ I'm also a Computer Science major at the University of Washington Seattle (expec
 
 ### Cool Stuff look at this 👀
 
-[Website](https://www.google.com/)\
+[Website](https://adrianapolonio.vercel.app/)\
 [Linkedin](https://www.linkedin.com/in/adrian-apolonio-436a8620a/)\
 Email: adrianapolonio17@gmail.com
 
